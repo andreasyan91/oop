@@ -1,0 +1,1 @@
+deps/shape.dep  obj/shape.o: src/shape.cpp src/shape.hpp
